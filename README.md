@@ -59,9 +59,15 @@
 📈 GitHub Stats
 
 
-![linkedin](https://img.shields.io/badge/https://www.linkedin.com/in/enmanuelmateoanalyst/-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+
+[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)
 
 
 ⚡ Fun Fact
