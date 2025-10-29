@@ -15,7 +15,7 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 
 | Project                              | Completion Date | Tools                            | Description                                                                                                                                                      |
 | ------------------------------------ | --------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚛 Iot Sensors Pipeline               | Sep 2025        | Python, Kafka, PostgreSQL, Apache Iceberg, MQTT, Docker, Linux | Designed and implemented a scalable end-to-end data pipeline to modernize IoT data architecture. Integrated MQTT → Kafka → PostgreSQL → Apache Iceberg, improving data quality by 30%, query performance by 40%, and enabling real-time monitoring and historical analysis. Built a modular architecture capable of connecting multiple data sources without downtime. |
+| [🚛 Iot Sensors Pipeline  ](https://github.com/EnmanuelMateo/Portafolio/tree/a425325f9f1cd49b9f5bffbe79ffdd5daf7ccdf7/Data%20Engineer/Iot%20Sensors)             | Sep 2025        | Python, Kafka, PostgreSQL, Apache Iceberg, MQTT, Docker, Linux | Designed and implemented a scalable end-to-end data pipeline to modernize IoT data architecture. Integrated MQTT → Kafka → PostgreSQL → Apache Iceberg, improving data quality by 30%, query performance by 40%, and enabling real-time monitoring and historical analysis. Built a modular architecture capable of connecting multiple data sources without downtime. |
 
 <a name="sql"></a>
 # 🧠 SQL
