@@ -7,14 +7,14 @@ from datetime import datetime
 
 # Kafka configuration
 kafka_conf = {
-    'bootstrap.servers': 'localhost:9092',  # Update if using Docker or remote Kafka
+    'bootstrap.servers': 'localhost:0000',  # Update if using Docker or remote Kafka
 }
 kafka_producer = Producer(kafka_conf)
 
 # MQTT configuration
-mqtt_host = "vm-ictrg-idl-docker-mosquitto-1883-tcp.at.remote.it"
-mqtt_port = 33009
-mqtt_topic = "idl/all_iot/idl_data"
+mqtt_host = "your_own"
+mqtt_port = 00000
+mqtt_topic = "your_own"
 
 # Function to process MQTT messages
 def process_mqtt_message(client, userdata, message):
@@ -79,5 +79,6 @@ except KeyboardInterrupt:
     mqtt_client.loop_stop()
     kafka_producer.flush()
     mqtt_client.disconnect()
+
 
 
