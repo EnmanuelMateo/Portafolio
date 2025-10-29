@@ -12,13 +12,6 @@ from psycopg2.extras import Json
 #     "host": "localhost",
 #     "port": 5432
 # }
-DB_CONFIG = {
-    "dbname": "idl_data_warehouse_rdb",
-    "user": "idl_iot",
-    "password": "IDL!2025IoT",
-    "host": "vm-nbcc-wforecast-postgresql.at.remote.it",
-    "port": 33003
-}
 
 
 
@@ -259,3 +252,4 @@ def consume_messages():
 
 # Start consumer loop
 consume_messages()
+
