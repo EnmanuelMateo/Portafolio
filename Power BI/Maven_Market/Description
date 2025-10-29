@@ -1,1 +1,3 @@
-This is file
+The Maven Market Sales Dashboard is a Power BI project that evaluates brand performance, profitability, and regional activity across the USA, Mexico, and Canada for 1998. The dashboard tracks 112,433 total transactions generating $449,019.61 in profit with an overall 1% return ratio, reflecting efficient operations and low product returns. Monthly performance data shows $71.68K in profit, surpassing the goal by 5.61%, alongside 18,325 transactions, offering a clear view of progress against business objectives.
+
+Top-performing brands such as Super, Golden, and BBB Best each achieved over $13K in profit with return rates under 1%, signaling consistent quality and customer satisfaction. Built using Power BI Desktop and DAX calculations, the dashboard provides valuable insights for Maven Market to enhance its marketing focus, strengthen partnerships with high-profit brands, and identify underperforming areas to improve overall sales efficiency.
