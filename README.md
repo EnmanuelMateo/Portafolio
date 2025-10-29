@@ -6,19 +6,20 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 # 📚 Table of Contents
 
  - [Data Engineering](#data-engineer)
- - SQL
- - Python
- - Power BI
+ - [SQL](#sql)
+ - [Python](#python)
+ - [Power BI](#power-bi)
 
 
-<a name="data-engineer"></a>
 # 🏗 Data Engineering
+<a name="data-engineer"></a>
 
 | Project                              | Completion Date | Tools                            | Description                                                                                                                                                      |
 | ------------------------------------ | --------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🚛 Iot Sensors Pipeline               | Sep 2025        | Python, Kafka, PostgreSQL, Apache Iceberg, MQTT, Docker, Linux | Designed and implemented a scalable end-to-end data pipeline to modernize IoT data architecture. Integrated MQTT → Kafka → PostgreSQL → Apache Iceberg, improving data quality by 30%, query performance by 40%, and enabling real-time monitoring and historical analysis. Built a modular architecture capable of connecting multiple data sources without downtime. |
 
 # 🧠 SQL
+<a name="sql"></a>
 
 | Project                     | Area of Analysis       | Description                                                                                                     |
 | --------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -27,6 +28,7 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 | 🧰 Data Cleaning/Schema Challenges | Data Preparation       | Solved SQL challenges involving data wrangling, cleaning, and transformation to prepare datasets for reporting. |
 
 # 🐍 Python
+<a name="python"></a>
 
 | Project                                    | Area                   | Description                                                                                                                                                                                                                                                                                                                                | Libraries                                                     |
 | ------------------------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
@@ -36,6 +38,7 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 
 
 # 📊 Power BI
+<a name="power-bi"></a>
 
 | Project                                       | Description                                                                                                                                                                                                                                                                                                                                                                                  | Dashboard      |
 | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
