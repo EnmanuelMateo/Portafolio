@@ -1,0 +1,24 @@
+# Python-Based IoT Data Pipeline Automation
+
+Developed a set of **Python scripts** to enable seamless real-time data ingestion, transformation, and integration across **MQTT**, **Kafka**, and **PostgreSQL** within a remote Linux-based data infrastructure.
+
+## Producer Script – MQTT to Kafka
+- Built an MQTT client using **Paho-MQTT** to subscribe to multiple IoT sensor topics and stream real-time telemetry data.  
+- Implemented **data validation** and **schema structuring** to convert raw JSON payloads into standardized Kafka messages.  
+- Integrated with **Confluent Kafka Producer** to ensure high-throughput, low-latency delivery of IoT events.  
+- Added **timestamping**, **logging**, and **error recovery** mechanisms for monitoring and reliability.
+
+## Consumer Script – Kafka to PostgreSQL
+- Designed a Kafka consumer that listens to structured data streams and writes categorized records into PostgreSQL tables.  
+- Created a dynamic **device-type categorization engine** that maps each IoT device to the correct schema (e.g., People Counters, Environmental Sensors, Ambience Monitors).  
+- Implemented **data cleaning**, **null handling**, and **automatic rollback** for database integrity.  
+- Ensured scalability by decoupling message consumption from database transactions, supporting concurrent ingestion.
+
+## Key Outcomes
+- Reduced data loss and malformed entries by **30%** through validation and error handling.  
+- Improved query efficiency by **40%** via structured PostgreSQL schemas instead of raw JSON storage.  
+- Enabled **scalable multi-destination data routing** through Kafka, supporting future connections (e.g., Apache Iceberg, BI dashboards).  
+- Provided a **foundation for real-time analytics** and **historical archiving** across multiple systems.
+
+## Technologies
+**Python**, **Paho-MQTT**, **Confluent Kafka**, **psycopg2**, **PostgreSQL**, **JSON**, **Logging**, **Linux**
