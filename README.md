@@ -49,8 +49,6 @@
   - Data storytelling and visualization initiatives
 
 📫 How to Reach Me
-
-  🌐 LinkedIn: https://www.linkedin.com/in/enmanuelmateoanalyst/
   
   ✉️ enmanuelmateoperez@gmail.com
 
@@ -59,15 +57,15 @@
 📈 GitHub Stats
 
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) :https://www.linkedin.com/in/enmanuelmateoanalyst/
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#): https://www.upwork.com/freelancers/~0101b090331f557ace?mp_source=share
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#): enmanuelmateoperez@gmail.com
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#): https://github.com/EnmanuelMateo/Portafolio
 
-[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)
+[![Portafolio](https://img.shields.io/badge/Portafolio-01A4FF?logo=warp&logoColor=fff)](#): https://enmanuelmateoperez5.wixsite.com/enmanuelportafolio
 
 
 ⚡ Fun Fact
