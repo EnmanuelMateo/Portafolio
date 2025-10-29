@@ -15,9 +15,7 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 
 | Project                              | Completion Date | Tools                            | Description                                                                                                                                                      |
 | ------------------------------------ | --------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🚛 Retail ETL Pipeline               | Sep 2024        | Python, Snowflake, Azure, Docker | Built an end-to-end ETL pipeline that extracted, cleaned, and loaded retail data into Snowflake for analytical use. Automated ingestion using Python and Docker. |
-| 🏪 Inventory Management Optimization | Jun 2024        | SQL, Power BI, Excel             | Designed a data model to optimize stock levels for Minimarket Mateo. Created automated reports to identify fast-moving items and reduce waste.                   |
-| 📦 Warehouse Data Model              | May 2024        | Python, Apache Spark, PostgreSQL | Developed a dimensional data model for warehouse performance analytics. Implemented ETL transformations in Python.                                               |
+| 🚛 Iot Sensors Pipeline               | Sep 2025        | Python, Kafka, PostgreSQL, Apache Iceberg, MQTT, Docker, Linux | Designed and implemented a scalable end-to-end data pipeline to modernize IoT data architecture. Integrated MQTT → Kafka → PostgreSQL → Apache Iceberg, improving data quality by 30%, query performance by 40%, and enabling real-time monitoring and historical analysis. Built a modular architecture capable of connecting multiple data sources without downtime. |
 
 # 🧠 SQL
 
@@ -25,15 +23,15 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 | --------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------- |
 | 💳 Fraud Detection Analysis | Financial Transactions | Detected suspicious card transactions under $2 using SQL and Python; identified top 5 vulnerable merchants.     |
 | 🧾 Sales Insights Querying  | Retail Analytics       | Wrote optimized SQL queries to extract sales insights and measure performance across regions.                   |
-| 🧰 Data Cleaning Challenges | Data Preparation       | Solved SQL challenges involving data wrangling, cleaning, and transformation to prepare datasets for reporting. |
+| 🧰 Data Cleaning/Schema Challenges | Data Preparation       | Solved SQL challenges involving data wrangling, cleaning, and transformation to prepare datasets for reporting. |
 
 # 🐍 Python
 
-| Project                           | Area        | Description                                                                                                        | Libraries                   |
-| --------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| 🧮 Customer Segmentation Analysis | EDA         | Segmented customers by purchase behavior and frequency; visualized clusters using Power BI.                        | pandas, matplotlib, seaborn |
-| 🧼 Data Cleaning Scripts          | Automation  | Created Python scripts to automate the cleaning and preprocessing of raw datasets before loading to SQL databases. | pandas, numpy               |
-| 📈 Trend Forecasting Model        | Time Series | Built a forecasting model to predict future product demand based on historical sales data.                         | scikit-learn, matplotlib    |
+| Project                                    | Area                   | Description                                                                                                                                                                                                                                                                                                                                | Libraries                                                     |
+| ------------------------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| 🌐 IoT Data Pipeline (Producer & Consumer) | Data Engineering / IoT | Developed Python scripts to connect to an MQTT broker and extract IoT sensor data. The producer script collects and cleans data, sending it to Kafka via Docker. The consumer script organizes the streamed data and loads it into PostgreSQL for analysis. Enabled scalable, real-time processing and integration with the data pipeline. | json, logging, psycopg2, psycopg2.extras (Json), confluent_kafka, os, time, datetime |
+| 💳 Fraud Detection Analysis | Financial Transactions | Analyzed and cleaned transaction data, searched for outliers, and visualized insights to detect suspicious card activity. | pandas, SQLAlchemy, seaborn, matplotlib |
+
 
 
 # 📊 Power BI
