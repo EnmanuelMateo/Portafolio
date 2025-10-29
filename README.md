@@ -36,11 +36,11 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 
 # 📊 Power BI
 
-| Project                         | Description                                                                                     | Dashboard      |
-| ------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- |
-| 🏬 Retail Sales Dashboard       | Designed an interactive Power BI dashboard displaying KPIs, product trends, and profit margins. | View Dashboard |
-| 🧾 Financial Performance Report | Created financial visuals summarizing revenue, costs, and profit over time.                     | View Dashboard |
-| 🧍 Customer Behavior Analysis   | Built visual reports to understand purchasing patterns and demographics.                        | View Dashboard |
+| Project                                       | Description                                                                                                                                                                                                                                                                                                                                                                                  | Dashboard      |
+| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| 🏔 AdventureWorks Sales Performance Dashboard | Analyzed sales, profit, and customer trends from 2020–2022, revealing $24.9M in revenue, $10.5M in profit, and 25.2K orders with a low 2.2% return rate. Built using Power BI Desktop, DAX calculations, and data modeling techniques, highlighting revenue growth, 42% profit margin, and top-performing products. Insights enable targeted marketing and customer segmentation.            | View Dashboard |
+| 🛒 Maven Market Sales Dashboard               | Evaluated brand performance, profitability, and regional activity across the USA, Mexico, and Canada for 1998. Tracked 112,433 transactions generating $449K in profit with 1% return ratio. Monthly profit $71.68K surpassed goals by 5.61%. Built using Power BI Desktop and DAX, providing insights to enhance marketing, improve brand partnerships, and identify underperforming areas. | View Dashboard |
+
 
 
 # 📚 Guides
