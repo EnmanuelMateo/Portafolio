@@ -1,3 +1,7 @@
+<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/84fffc56-3178-42ea-8f85-7ec318f0267a" />
+
+
+
 👋 Hi there, I'm Enmanuel Mateo
 
   🎯 Data Analyst & Data Engineer passionate about turning data into meaningful stories and efficient solutions.
