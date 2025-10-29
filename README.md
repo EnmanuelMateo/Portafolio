@@ -18,8 +18,8 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 | ------------------------------------ | --------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🚛 Iot Sensors Pipeline               | Sep 2025        | Python, Kafka, PostgreSQL, Apache Iceberg, MQTT, Docker, Linux | Designed and implemented a scalable end-to-end data pipeline to modernize IoT data architecture. Integrated MQTT → Kafka → PostgreSQL → Apache Iceberg, improving data quality by 30%, query performance by 40%, and enabling real-time monitoring and historical analysis. Built a modular architecture capable of connecting multiple data sources without downtime. |
 
-# 🧠 SQL
 <a name="sql"></a>
+# 🧠 SQL
 
 | Project                     | Area of Analysis       | Description                                                                                                     |
 | --------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -27,8 +27,8 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 | 🧾 Sales Insights Querying  | Retail Analytics       | Wrote optimized SQL queries to extract sales insights and measure performance across regions.                   |
 | 🧰 Data Cleaning/Schema Challenges | Data Preparation       | Solved SQL challenges involving data wrangling, cleaning, and transformation to prepare datasets for reporting. |
 
-# 🐍 Python
 <a name="python"></a>
+# 🐍 Python
 
 | Project                                    | Area                   | Description                                                                                                                                                                                                                                                                                                                                | Libraries                                                     |
 | ------------------------------------------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
