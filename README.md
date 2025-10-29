@@ -1,71 +1,52 @@
-<img width="1584" height="396" alt="2" src="https://github.com/user-attachments/assets/84fffc56-3178-42ea-8f85-7ec318f0267a" />
+🗺 Enmanuel's Portfolio
 
+Welcome to my Data Portfolio!
+Here, I document my projects in Data Analysis, Data Engineering, and Visualization — showcasing my passion for turning raw data into insights that drive decisions.
 
+📚 Table of Contents
 
-👋 Hi there, I'm Enmanuel Mateo
+Data Engineering
 
-  🎯 Data Analyst & Data Engineer passionate about turning data into meaningful stories and efficient solutions.
-  I enjoy working across the data lifecycle — from cleaning and modeling to building insightful dashboards and data pipelines.
+SQL
 
-💼 About Me
+Python
 
-  - Currently working as a Jr. Data Analyst an Data Engineer Freelancer
-  
-  - Certified Microsoft Power BI Data Analyst Associate
-  
-  - Experienced with SQL, Python, Power BI, Kafka, Microsoft Fabric and more.
-  
-  - Passionate about data visualization, data engineering, and automation
-  
-  - Based in Canada, originally from the Dominican Republic
+Power BI
 
-⚙️ Tech Stack
+Guides
 
-  Languages: Python, SQL, R
-  Databases: PostgreSQL, MySQL, Snowflake, Oracle, Apache Iceberg
-  Data Tools: Power BI, Excel, Microsoft Fabric.
-  ETL & Big Data: Apache Spark, Hadoop
-  Cloud: Azure
-  Version Control: Git, GitHub
+🏗 Data Engineering
+Project	Completion Date	Tools	Description
+🚛 Retail ETL Pipeline	Sep 2024	Python, Snowflake, Azure, Docker	Built an end-to-end ETL pipeline that extracted, cleaned, and loaded retail data into Snowflake for analytical use. Automated ingestion using Python and Docker.
+🏪 Inventory Management Optimization	Jun 2024	SQL, Power BI, Excel	Designed a data model to optimize stock levels for Minimarket Mateo. Created automated reports to identify fast-moving items and reduce waste.
+📦 Warehouse Data Model	May 2024	Python, Apache Spark, PostgreSQL	Developed a dimensional data model for warehouse performance analytics. Implemented ETL transformations in Python.
+🧠 SQL
+Project	Area of Analysis	Description
+💳 Fraud Detection Analysis	Financial Transactions	Detected suspicious card transactions under $2 using SQL and Python; identified top 5 vulnerable merchants.
+🧾 Sales Insights Querying	Retail Analytics	Wrote optimized SQL queries to extract sales insights and measure performance across regions.
+🧰 Data Cleaning Challenges	Data Preparation	Solved SQL challenges involving data wrangling, cleaning, and transformation to prepare datasets for reporting.
+🐍 Python
+Project	Area	Description	Libraries
+🧮 Customer Segmentation Analysis	EDA	Segmented customers by purchase behavior and frequency; visualized clusters using Power BI.	pandas, matplotlib, seaborn
+🧼 Data Cleaning Scripts	Automation	Created Python scripts to automate the cleaning and preprocessing of raw datasets before loading to SQL databases.	pandas, numpy
+📈 Trend Forecasting Model	Time Series	Built a forecasting model to predict future product demand based on historical sales data.	scikit-learn, matplotlib
+📊 Power BI
+Project	Description	Dashboard
+🏬 Retail Sales Dashboard	Designed an interactive Power BI dashboard displaying KPIs, product trends, and profit margins.	View Dashboard
 
-🔭 Current Projects
+🧾 Financial Performance Report	Created financial visuals summarizing revenue, costs, and profit over time.	View Dashboard
 
-  - Building an end-to-end ETL pipeline in Snowflake using Python
-  
-  - Analyzing retail transactions to detect fraud and optimize sales strategy
-  
-  - Developing an interactive Power BI dashboard for business insights
+🧍 Customer Behavior Analysis	Built visual reports to understand purchasing patterns and demographics.	View Dashboard
+📚 Guides
+📘 SQL Resources
 
-🌱 Currently Learning
+A list of the best free resources to learn SQL — from courses to interactive websites.
+(Coming soon to my LinkedIn!)
 
-  - Data warehouse architecture & optimization
-  
-  - Machine Learning for business analytics
-  
-  - Cloud data engineering (Azure Synapse, Snowflake advanced features)
+💡 Transition Into Data Analytics
 
-🤝 Looking to Collaborate On
+My guide for anyone starting in the data field, with step-by-step learning paths for SQL, Python, and Power BI.
 
-  - Open-source data analytics projects
-  
-  - Dashboard automation & reporting
-  
-  - Data storytelling and visualization initiatives
+🧩 Building Your GitHub Portfolio
 
-📫 How to Reach Me
-
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) :https://www.linkedin.com/in/enmanuelmateoanalyst/
-  
-  [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#): https://www.upwork.com/freelancers/~0101b090331f557ace?mp_source=share
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#): enmanuelmateoperez@gmail.com
-  
-  [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#): https://github.com/EnmanuelMateo/Portafolio
-  
-  [![Portafolio](https://img.shields.io/badge/Portafolio-01A4FF?logo=warp&logoColor=fff)](#): https://enmanuelmateoperez5.wixsite.com/enmanuelportafolio
-
-
-⚡ Fun Fact
-
-When I’m not analyzing data, you’ll probably find me training calisthenics, making music, or learning/talking about Jesus Christ the source of my inspiration and purpose 🙏🎶💪
-
+A tutorial I’m writing on how to structure your repositories and README files like this one to showcase your data journey.
