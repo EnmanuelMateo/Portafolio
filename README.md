@@ -10,9 +10,8 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
  - [Python](#python)
  - [Power BI](#power-bi)
 
-
-# 🏗 Data Engineering
 <a name="data-engineer"></a>
+# 🏗 Data Engineering
 
 | Project                              | Completion Date | Tools                            | Description                                                                                                                                                      |
 | ------------------------------------ | --------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
