@@ -1,4 +1,4 @@
-# Python-Based IoT Data Pipeline Automation
+ # Python-Based IoT Data Pipeline Automation
 
 Developed a set of **Python scripts** to enable seamless real-time data ingestion, transformation, and integration across **MQTT**, **Kafka**, and **PostgreSQL** within a remote Linux-based data infrastructure.
 
