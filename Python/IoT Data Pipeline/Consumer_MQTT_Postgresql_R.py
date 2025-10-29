@@ -4,15 +4,14 @@ import psycopg2
 from confluent_kafka import Consumer
 from psycopg2.extras import Json
 
-# PostgreSQL connection details
-# DB_CONFIG = {
-#     "dbname": "test",
-#     "user": "postgres",
-#     "password": "0273",
-#     "host": "localhost",
-#     "port": 5432
-# }
-
+PostgreSQL connection details
+DB_CONFIG = {
+    "dbname": "test",
+    "user": "-----",
+    "password": "----",
+    "host": "localhost",
+    "port": 5432
+}
 
 
 # Connect to PostgreSQL
@@ -252,4 +251,5 @@ def consume_messages():
 
 # Start consumer loop
 consume_messages()
+
 
