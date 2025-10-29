@@ -9,7 +9,6 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
  - SQL
  - Python
  - Power BI
- - Guides
 
 # 🏗 Data Engineering
 
@@ -42,18 +41,3 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 | 🛒 Maven Market Sales Dashboard               | Evaluated brand performance, profitability, and regional activity across the USA, Mexico, and Canada for 1998. Tracked 112,433 transactions generating $449K in profit with 1% return ratio. Monthly profit $71.68K surpassed goals by 5.61%. Built using Power BI Desktop and DAX, providing insights to enhance marketing, improve brand partnerships, and identify underperforming areas. | View Dashboard |
 
 
-
-# 📚 Guides
-
-📘 SQL Resources
-
-A list of the best free resources to learn SQL — from courses to interactive websites.
-(Coming soon to my LinkedIn!)
-
-💡 Transition Into Data Analytics
-
-My guide for anyone starting in the data field, with step-by-step learning paths for SQL, Python, and Power BI.
-
-🧩 Building Your GitHub Portfolio
-
-A tutorial I’m writing on how to structure your repositories and README files like this one to showcase your data journey.
