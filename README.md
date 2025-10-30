@@ -22,7 +22,7 @@ Here, I document my projects in Data Analysis, Data Engineering, and Visualizati
 
 | Project                     | Area of Analysis       | Description                                                                                                     |
 | --------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [💳 Fraud Detection Analysis](https://github.com/EnmanuelMateo/Portafolio/blob/6fe5fc6e8e1fb8206936695b1c45d03e4a0b63f4/SQL/Fraud%20Detection%20Analysis/Fraud_sql.sql) | Financial Transactions | Detected suspicious card transactions under $2 using SQL and Python; identified top 5 vulnerable merchants.     |
+| [💳 Fraud Detection Analysis](https://github.com/EnmanuelMateo/Portafolio/blob/e1588a02b0af2b8da03045aa6a930b955e54951b/SQL/Fraud%20Detection%20Analysis/SQL_Fraud.ipynb) | Financial Transactions | Detected suspicious card transactions under $2 using SQL and Python; identified top 5 vulnerable merchants.     |
 | 🧾 Sales Insights Querying  | Retail Analytics       | Wrote optimized SQL queries to extract sales insights and measure performance across regions.                   |
 | 🧰 Data Cleaning/Schema Challenges | Data Preparation       | Solved SQL challenges involving data wrangling, cleaning, and transformation to prepare datasets for reporting. |
 
