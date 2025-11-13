@@ -42,3 +42,12 @@ advanced analytics and business intelligence — improving **efficiency**, **sca
 
 <img width="1916" height="1030" alt="Capture d&#39;écran 2025-09-23 112720 (1)" src="https://github.com/user-attachments/assets/dc687ef2-eac9-4ba7-b7bf-a4f7d6578a30" />
 
+<img width="837" height="456" alt="Capture d&#39;écran 2025-10-24 160734 (1)" src="https://github.com/user-attachments/assets/8634d2ff-47fd-4d72-8642-cbed3f0d05f8" />
+
+<img width="837" height="456" alt="Capture d&#39;écran 2025-10-24 160734 (2)" src="https://github.com/user-attachments/assets/a4c908ec-90c2-4e21-a617-aa273ca45608" />
+
+<img width="866" height="571" alt="Capture d&#39;écran 2025-10-24 160428 (1)" src="https://github.com/user-attachments/assets/e47b5531-764e-4b36-917c-23cb36c8364a" />
+
+
+
+
