@@ -33,3 +33,12 @@ deployed on a **remote Linux server**.
 This system transformed a **static, single-destination data pipeline** into a **dynamic, distributed platform** for  
 advanced analytics and business intelligence — improving **efficiency**, **scalability**, and **data-driven decision-making**.
 
+
+## Images
+
+<img width="1536" height="1024" alt="ChatGPT Image Nov 13, 2025, 04_37_33 PM" src="https://github.com/user-attachments/assets/5e45761c-f659-40ee-bc2f-143658e56575" />
+
+<img width="1915" height="1029" alt="Capture d&#39;écran 2025-10-24 161351 (1)" src="https://github.com/user-attachments/assets/25aa26dc-d129-4801-85aa-808dad9bd737" />
+
+<img width="1916" height="1030" alt="Capture d&#39;écran 2025-09-23 112720 (1)" src="https://github.com/user-attachments/assets/dc687ef2-eac9-4ba7-b7bf-a4f7d6578a30" />
+
